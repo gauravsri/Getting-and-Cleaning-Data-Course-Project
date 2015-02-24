@@ -1,5 +1,9 @@
 # Codebook for Getting and Cleaning Data Course Project
 
+- The units used for the accelerations (total and body) are 'g's (gravity of earth -> 9.80665 m/seg2).
+- The gyroscope units are rad/seg.
+- Features are normalized and bounded within [-1,1].
+
 ## Subject
    identifier of the subject who carried out the experiment
 
